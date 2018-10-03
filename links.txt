@@ -3,3 +3,7 @@
 1. https://github.com/bpesquet/thejsway
 
 2. http://bonsaiden.github.io/JavaScript-Garden/
+
+3. http://jstherightway.org/
+
+4. http://read.humanjavascript.com/
