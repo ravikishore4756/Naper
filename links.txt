@@ -1,0 +1,5 @@
+### JavaScript books and resources
+
+1. https://github.com/bpesquet/thejsway
+
+2. http://bonsaiden.github.io/JavaScript-Garden/
