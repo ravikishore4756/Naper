@@ -7,3 +7,5 @@
 3. http://jstherightway.org/
 
 4. http://read.humanjavascript.com/
+
+5. https://github.com/getify/You-Dont-Know-JS
